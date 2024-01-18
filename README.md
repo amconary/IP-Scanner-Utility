@@ -29,7 +29,7 @@ Write the script loop:  <br/>
 <img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
-Save and modify the file for use:  <br/>
+Modify the file for use:  <br/>
 <img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />

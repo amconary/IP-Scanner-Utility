@@ -18,23 +18,23 @@ Project consists of a simple Bash script that walks the user through creating a 
 
 <p align="center">
 Launch mousepad: <br/>
-<img src="https://imgur.com/a/4FICeh3" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/wzat5Xi.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Set your file to bash:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/p3yM8Ef.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Write the script loop:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/eD62iTS.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Modify the file for use:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/GDCGFS4.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Test the IP scanner:  <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://i.imgur.com/POr6ggl.png" height="80%" width="80%" alt="Port Scanner Utility"/>
 </p>
 
 <!--

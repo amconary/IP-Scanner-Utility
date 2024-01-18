@@ -21,7 +21,7 @@ Launch mousepad: <br/>
 <img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
-Set your script to bash:  <br/>
+Set your file to bash:  <br/>
 <img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />

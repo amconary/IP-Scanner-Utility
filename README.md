@@ -18,7 +18,7 @@ Project consists of a simple Bash script that walks the user through creating a 
 
 <p align="center">
 Launch mousepad: <br/>
-<img src="ADD_IMG_URL" height="80%" width="80%" alt="Port Scanner Utility"/>
+<img src="https://imgur.com/a/4FICeh3" height="80%" width="80%" alt="Port Scanner Utility"/>
 <br />
 <br />
 Set your file to bash:  <br/>
